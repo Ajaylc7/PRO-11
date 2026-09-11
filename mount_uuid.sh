@@ -2,8 +2,8 @@
 
 # ==========================================
 # Mount Filesystem Using UUID
-# Student Name:kabilesh c
-# Roll Number:48
+# Student Name:AJAY T
+# Roll Number:1U24IT004
 # ==========================================
 
 # Display filesystem UUID
